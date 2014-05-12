@@ -35,6 +35,8 @@ c        9/13/99   Version 2.02 released (see Release_notes_2.02)
 c        5/10/99   Version 2.01 released (see Release_notes_2.01) 
 c       12/30/98   Version 2.00 released, original development
 c
+c       12/30/98   Version 2.00 released, original development
+c
 c     Routines Called: 
 c        STARTUP,  READINP,  INTRPDAT, READCNC,  WRTMASS,  MASSUM,
 c        TIMESTEP, KHORZ,    DRYDEP,   WRTDEP,   READPT,   READAR,
